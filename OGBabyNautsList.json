@@ -21,6 +21,10 @@
 "dao": {
 "name": "DAO",
 "description": "NFTs relating to Decentralized Autonomous Organizations"
+},
+  "utilty": {
+"name": "Utility",
+"description": "NFTs affording holders privileges, rights and rewards that they wouldn’t otherwise be able to access"
 }
 },
 "timestamp": "2022-03-12T00:00:00+00:00",
@@ -32,7 +36,8 @@
 "logoURI": "https://i.seadn.io/gae/ya8SNFxSNF-hEC3btIEwtX0U03KUvz3N65BhTKdLrOoW9VC0145YQK2XyNS58J4R2Ze1mA6mFKr4k0iciiHRZtC9Z0ducTvpScYcww?auto=format&w=256",
 "tags": [
 "pfp",
-"dao"
+"dao",
+"utility"
 ]
 },
 {
@@ -42,7 +47,8 @@
 "logoURI": "ipfs://QmSeoPM4mQy8XFxVETKxGCqU8eoeL3536VjWocwa7GsoWW",
 "tags": [
 "pfp",
-"dao"
+"dao",
+"utility"
 ]
 },
 {
@@ -52,9 +58,21 @@
 "logoURI": "https://collectionlists.org/static/media/color.e7c60d18.png",
 "tags": [
 "fnft",
-"dao"
+"dao",
+"utility"
 ]
 }
+]
+},
+  {
+"chainId": 1,
+"address": "0xee31ea1f63cab8387222551c469e31d189711cf7",
+"name": "Welly NFT",
+"logoURI": "https://i.seadn.io/gcs/files/cf2f966b49230e69ce3ba5c8874fdf93.jpg?auto=format&w=256 ",
+"tags": [
+"pfp",
+"dao",
+"utility"
 ],
 "version": {
 "major": 1,

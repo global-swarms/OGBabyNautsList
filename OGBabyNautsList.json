@@ -2,8 +2,8 @@
 "name": "OGBabyNauts",
 "logoURI": "https://github.com/global-swarms/OGBabyNautsList/blob/main/logo-color.png",
 "baseURL": "https://OGbabyNauts.io/",
-"collectionURL": "https://OGbabyNauts.io/#{collectionId}",
-"itemURL": "https://OGbabyNauts.io/#{collectionId}&token={tokenId}",
+"collectionURL": "https:///Neonrain.io/OGbabyNauts",
+"itemURL": "https:///Neonrain.io/OGbabyNauts/#{collectionId}&token={tokenId}",
 "keywords": [
 "audited",
 "verified",

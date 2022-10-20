@@ -1,0 +1,64 @@
+{
+"name": "OGBabyNauts",
+"logoURI": "https://drive.google.com/file/d/1NtaOm1dPSeMkHX2HyG9o0w1tdH0hESZz/view?usp=sharing",
+"baseURL": "https://OGbabyNauts.io/",
+"collectionURL": "https://OGbabyNauts.io/#{collectionId}",
+"itemURL": "https://OGbabyNauts.io/#{collectionId}&token={tokenId}",
+"keywords": [
+"audited",
+"verified",
+"special tokens"
+],
+"tags": {
+"nfnt": {
+"name": "FNFT",
+"description": "Functional NFTs that have extra functions"
+},
+"pfp": {
+"name": "PFP",
+"description": "Profile Picture Projects"
+},
+"dao": {
+"name": "DAO",
+"description": "NFTs relating to Decentralized Autonomous Organizations"
+}
+},
+"timestamp": "2022-03-12T00:00:00+00:00",
+"collections": [
+{
+"chainId": 1,
+"address": "0xb1469271ff094d7fb2710b0a69a80a01ec5dbf24",
+"name": "Deez Nuts (Official Nuts)",
+"logoURI": "https://i.seadn.io/gae/ya8SNFxSNF-hEC3btIEwtX0U03KUvz3N65BhTKdLrOoW9VC0145YQK2XyNS58J4R2Ze1mA6mFKr4k0iciiHRZtC9Z0ducTvpScYcww?auto=format&w=256",
+"tags": [
+"pfp",
+"dao"
+]
+},
+{
+"chainId": 1,
+"address": "0x505a12c23fdc8f80ca4a1a3000cd39636c927128",
+"name": "Genesis Syncronauts",
+"logoURI": "ipfs://QmSeoPM4mQy8XFxVETKxGCqU8eoeL3536VjWocwa7GsoWW",
+"tags": [
+"pfp",
+"dao"
+]
+},
+{
+"chainId": 1,
+"address": "0xc6c11f32d3ccc3beaac68793bc3bfbe82838ca9f",
+"name": "CryptoBonds",
+"logoURI": "https://collectionlists.org/static/media/color.e7c60d18.png",
+"tags": [
+"fnft",
+"dao"
+]
+}
+],
+"version": {
+"major": 1,
+"minor": 0,
+"patch": 2
+}
+}

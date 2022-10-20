@@ -1,6 +1,6 @@
 {
 "name": "OGBabyNauts",
-"logoURI": "https://drive.google.com/file/d/1NtaOm1dPSeMkHX2HyG9o0w1tdH0hESZz/view?usp=sharing",
+"logoURI": "https://github.com/global-swarms/OGBabyNautsList/blob/main/logo-color.png",
 "baseURL": "https://OGbabyNauts.io/",
 "collectionURL": "https://OGbabyNauts.io/#{collectionId}",
 "itemURL": "https://OGbabyNauts.io/#{collectionId}&token={tokenId}",
